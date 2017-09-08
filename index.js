@@ -19,7 +19,7 @@ var s3 = new AWS.S3();
 
 // Bucket names must be unique across all S3 users
 
-var myBucket = 'discover-0907-1-bucket';
+var myBucket = 'myBucket-0907-1';
 
 var myKey = 'myBucketKey';
 
